@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ravimengar0@gmail.com**
 
-<p>
+<p align="center">
 <a href="https://dev.to/ravimengar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ravimengar" height="20" width="20" /></a>
 <a href="https://twitter.com/ravi_mengar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravi_mengar" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ravi-mengar-303946141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravi-mengar-303946141" height="20" width="20" /></a>
