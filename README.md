@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ravi Mengar</h1>
 <h3 align="center">A passionate back end developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravimengar" alt="ravimengar" /> </p>
 
 - 📝 I regulary write articles on [ravimengar.hashnode.dev](https://ravimengar.hashnode.dev/)
 
-- 💬 Ask me about **Java, Spring, Hibernate and JPA**
+- 💬 Ask me about anything, I'll be happy to help
 
-- 📫 How to reach me **ravimengar0@gmail.com**
+- 📫 How to reach me :  _ [Twitter](https://twitter.com/ravi_mengar) | [Linkedin](https://linkedin.com/in/ravi-mengar-303946141) | [Email](mailto:ravimengar0@gmail.com) | [Website](https://codebloque.com) 
+
+- ☕️ If you like my articles [Buy me a coffee](https://ko-fi.com/ravi_mengar)
 
 <p align="center">
 <a href="https://dev.to/ravimengar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ravimengar" height="20" width="20" /></a>
