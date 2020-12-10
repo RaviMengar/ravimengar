@@ -2,7 +2,7 @@
 <h3 align="center">A passionate back end developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravimengar" alt="ravimengar" /> </p>
 
-- 📝 I regulary write articles on [ravimengar.blogspot.com](ravimengar.blogspot.com)
+- 📝 I regulary write articles on [ravimengar.hashnode.dev](https://ravimengar.hashnode.dev/)
 
 - 💬 Ask me about **Java, Spring, Hibernate and JPA**
 
