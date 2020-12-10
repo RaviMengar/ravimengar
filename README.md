@@ -5,7 +5,7 @@
 
 - 💬 Ask me about anything, I'll be happy to help
 
-- 📫 How to reach me :  _ [Twitter](https://twitter.com/ravi_mengar) | [Linkedin](https://linkedin.com/in/ravi-mengar-303946141) | [Email](mailto:ravimengar0@gmail.com) | [Website](https://codebloque.com) 
+- 📫 How to reach me :  _ [Twitter](https://twitter.com/ravi_mengar) | [Linkedin](https://www.linkedin.com/in/ravimengar/) | [Email](mailto:ravimengar0@gmail.com) | [Website](https://codebloque.com) 
 
 - ☕️ If you like my articles [Buy me a coffee](https://ko-fi.com/ravi_mengar)
 
