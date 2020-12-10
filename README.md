@@ -15,3 +15,7 @@
 <a href="https://linkedin.com/in/ravi-mengar-303946141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravi-mengar-303946141" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/11486142/ravi-mengar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/11486142/ravi-mengar" height="20" width="20" /></a>
 </p>
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravimengar&show_icons=true&theme=gotham" alt="Ravi Mengar GitHub Stats" />
+</details>
