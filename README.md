@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Mengar</h1>
 <h3 align="center">A passionate back end developer from India</h3>
 
-- 📝 I regulary write articles on [ravimengar.hashnode.dev](https://ravimengar.hashnode.dev/)
+- 📝 I do write articles on [ravimengar.hashnode.dev](https://ravimengar.hashnode.dev/)
 
 - 💬 Ask me about anything, I'll be happy to help
 
